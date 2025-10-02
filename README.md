@@ -1,12 +1,11 @@
 <div align="center">
   <br />
-  <img src="https://ibb.co/vv6nYS99" alt="Shoes App Banner" width="100%" />
+  <img src="https://postimg.cc/KRj0NcLQ" alt="Shoes App Banner" width="100%" />
   <br />
 
   <div>
-    <img src="https://img.shields.io/badge/-React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-    <img src="https://img.shields.io/badge/-Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
-    <img src="https://img.shields.io/badge/-Sanity-F3722C?style=for-the-badge&logo=sanity&logoColor=white" alt="Sanity" />
+    <img src="https://img.shields.io/badge/-React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React JS" />
+    <img src="https://img.shields.io/badge/-Expo-1B1F23?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
     <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   </div>
