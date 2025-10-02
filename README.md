@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <img src="https://postimg.cc/KRj0NcLQ" alt="Shoes App Banner" width="100%" />
+  <img src="https://i.postimg.cc/GhJ6bHp0/Capture-d-cran-2025-10-02-162931.png" alt="Shoes App Banner" width="100%" />
   <br />
 
   <div>
