@@ -4,8 +4,8 @@
   <br />
 
   <div>
-    <img src="https://img.shields.io/badge/-React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React JS" />
-    <img src="https://img.shields.io/badge/-Expo-1B1F23?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+    <img src="https://img.shields.io/badge/-React_JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React JS" />
+    <img src="https://img.shields.io/badge/-Vite-1B1F23?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
     <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   </div>
